@@ -8,7 +8,7 @@ const Footer = () => {
       <span className="name">
         Made by{" "}
         <a href="https://www.youtube.com/c/#" target="__blank">
-          Roadside Coder
+          Ultimate Brains
         </a>
       </span>
       <div className="iconContainer">
